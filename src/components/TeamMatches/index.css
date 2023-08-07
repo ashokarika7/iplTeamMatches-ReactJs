@@ -1,0 +1,76 @@
+/* Write your CSS here */
+.team-matches-bg-container {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  padding-left: 0px;
+}
+
+.team-matches-container {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.team-banner-img {
+  height: 200px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.teamMatches-title {
+  font-size: 18px;
+  align-self: flex-start;
+}
+
+.match-card-ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.KKR {
+  background-image: linear-gradient(#13418b, #4f5db0);
+  min-height: 100vh;
+}
+
+.RCB {
+  background-image: linear-gradient(#d91c1f, #da237b);
+  min-height: 100vh;
+}
+
+.KXP {
+  background-image: linear-gradient(#d91c1f, #da237b);
+  min-height: 100vh;
+}
+
+.CSK {
+  background-image: linear-gradient(#f7db00, lightyellow);
+  min-height: 100vh;
+}
+
+.RR {
+  background-image: linear-gradient(#da237b, #4f5db0);
+  min-height: 100vh;
+}
+
+.MI {
+  background-image: linear-gradient(#13418b, #4f5db0);
+  min-height: 100vh;
+}
+
+.SH {
+  background-image: linear-gradient(#f26d22, orange);
+  min-height: 100vh;
+}
+
+.DC {
+  background-image: linear-gradient(#4f5db0, #0f172a);
+  min-height: 100vh;
+}

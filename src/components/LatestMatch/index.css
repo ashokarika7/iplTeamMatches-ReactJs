@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.latest-match-bg-container {
+  background-color: #1e293b;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.teamPara {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Bree Serif';
+}
+
+.left-container {
+  align-self: center;
+}
+
+.teamNameHeader {
+  font-size: 20px;
+}
+
+.team-name {
+  font-size: 14px;
+}
+
+.latest-match-logo {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+}
+
+.end-container {
+  text-align: right;
+}
